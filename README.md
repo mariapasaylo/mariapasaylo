@@ -1,4 +1,4 @@
-👋 Hi, I’m @MariaPasaylo 
+👋 Hi! I’m @MariaPasaylo 
 <p>
 📫 Reach out to me at mnapasaylo@gmail.com
 </p>
