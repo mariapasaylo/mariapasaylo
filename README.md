@@ -1,6 +1,6 @@
-👋 Hi! I’m @MariaPasaylo 
+👋 Hi!:))
 <p>
-📫 Reach out to me at mnapasaylo+github@gmail.com
+📫 Feel free to reach out to me at mnapasaylo+github@gmail.com
 </p>
 
 <!---
