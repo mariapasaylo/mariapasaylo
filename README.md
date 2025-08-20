@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -40,19 +39,19 @@ Google Workspace • Jira • Agile • Jupyter Notebooks • VS Code • Weight
 - **[🔬 Quantum AI for Climate](https://github.com/mariapasaylo/quantum-ai-for-climate)** | [🔗 Colab Link](https://colab.research.google.com/drive/1mSladZBswjXVaJz-yGJzyTS3AdmbjAKj?usp=sharing)   
   Applied **machine learning and quantum-inspired methods** to classify materials for solar cells — with applications in **space-based energy systems**. Won the *Startup Potential Award* at Womanium Quantum & AI.   
 
-- **[☀️ Solar Gators Website](https://github.com/mariapasaylo/solargators)** | [🔗 Live Site](https://ufsolargators.org/)  
-  Maintained the **React site** for UF’s solar car racing team.
+- **[☀️ Solar Gators Website](https://github.com/Solar-Gators/Advertisement-Website)** | [🔗 Live Site](https://ufsolargators.org/)  
+  Maintained the **React site** for University of Florida’s solar car racing team.
 
 - **[🌍 Student Sustainability Summit](https://github.com/studentsustainabilitysummit/studentsustainabilitysummit.github.io)** | [🔗 Live Site](https://www.studentsustainabilitysummit.org/)  
-  Organized and built a responsive site for a global sustainability conference, connecting **students, scientists, and innovators** across disciplines.
+  Organized and built a **responsive website** for a free global sustainability conference, connecting students, scientists, and innovators across disciplines.
 
-- **[💻 WiNGHacks](https://github.com/mariapasaylo/winghacks)** | [🔗 Live Site](https://www.winghacks.com/)   
-  Hackathon event platform with **interactive JavaScript components** to empower student builders.
+- **[💻 WiNGHacks](https://github.com/WiNGHacks/WiNGHacks-Website)** | [🔗 Live Site](https://www.winghacks.com/)   
+  Empowering student builders through a Hackathon event platform built with **interactive JavaScript components**.
 
-- **[🎮 The Mathing G8tor](https://github.com/mariapasaylo/mathing-g8tor)** | [🔗 Live Site](https://play.unity.com/en/games/a979b6d9-a64e-44d6-88b9-890679851abf/the-mathing-g8tor)  
-  Unity project gamifying math problem-solving for students.  
+- **[🎮 The Mathing G8tor](https://github.com/mariapasaylo/the-mathing-g8tor)** | [🔗 Live Site](https://play.unity.com/en/games/a979b6d9-a64e-44d6-88b9-890679851abf/the-mathing-g8tor)  
+  Developed a **Unity** project gamifying math problem-solving for students.  
 
-- **[🏥 Urgent Care Coordinator](https://github.com/mariapasaylo/hackprinceton-urgent-care)** | [🔗 HackPrinceton Submission](https://dorahacks.io/buidl/19374)  
+- **[🏥 Urgent Care Coordinator](https://github.com/poetryofcode/HackPrinceton)** | [🔗 HackPrinceton Submission](https://dorahacks.io/buidl/19374)  
   Combines **machine learning + real-time data routing** to optimize urgent care recommendations.  
 
 ---
@@ -60,11 +59,9 @@ Google Workspace • Jira • Agile • Jupyter Notebooks • VS Code • Weight
 ## ⚡ Quick Facts
 - 💻 Experience across **front-end, back-end, ML, and research pipelines**.  
 - 🚀 Interested in **space** and **computational materials science**.  
-- 🌱 Currently: Building a **solar-powered car telemetry system** + doing research in **theoretical chemistry**.  
-- ✍️ Published in **ACM Digital Library** for computer vision research.  
-- 🌎 Co-founded the **Student Sustainability Summit**, connecting global voices in sustainability.  
+- 🌱 Currently building a **solar-powered car telemetry site** and doing research in **theoretical chemistry**.  
 - 💬 Always up for a chat about the latest in **technology**, intriguing **mathematical concepts**, and **travel adventures**.  
-- 🤝 I’d love to connect and discuss how I can help in your research journey or collaborate on projects where I can add value. I believe that **when we lift others, we improve together**.  
+- 🤝 I’d love to connect and discuss how I can help in your journey or collaborate on projects where I can add value. I believe that **when we lift others, we improve together**.  
 
 <!---
 MariaNicosAlain/MariaNicosAlain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
