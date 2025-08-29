@@ -1,7 +1,6 @@
 # ✨ Hi! I’m Maria Pasaylo ✨
 
-📫 Reach me: **mnapasaylo+github@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/maria-pasaylo) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=-hOtu6EAAAAJ&view_op=list_works)
+📫[Gmail](mnapasaylo+github@gmail.com) 🔗 [LinkedIn](https://linkedin.com/in/maria-pasaylo) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=-hOtu6EAAAAJ&view_op=list_works)
 
 ---
 
