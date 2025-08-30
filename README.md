@@ -1,5 +1,13 @@
 # ✨ Hi! I’m Maria Pasaylo ✨
 
+## ⚡ Quick Facts
+- 💻 Experience across **front-end, back-end, ML, and research pipelines**.  
+- 🚀 Interested in **space** and **computational materials science**.  
+- 🌱 Currently building a **solar-powered car telemetry site** and doing research in **theoretical chemistry**.  
+- 💬 Always up for a chat about the latest in **technology**, intriguing **mathematical concepts**, and **travel adventures**.  
+- 🤝 I’d love to connect and discuss how I can help in your journey or collaborate on projects where I can add value. I believe that **when we lift others, we improve together**.  
+
+
 📫[Gmail](mnapasaylo+github@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/maria-pasaylo) | 📝[Google Scholar](https://scholar.google.com/citations?hl=en&user=-hOtu6EAAAAJ&view_op=list_works)
 
 ---
@@ -55,12 +63,6 @@ Google Workspace • Jira • Agile • Jupyter Notebooks • VS Code • Weight
 
 ---
 
-## ⚡ Quick Facts
-- 💻 Experience across **front-end, back-end, ML, and research pipelines**.  
-- 🚀 Interested in **space** and **computational materials science**.  
-- 🌱 Currently building a **solar-powered car telemetry site** and doing research in **theoretical chemistry**.  
-- 💬 Always up for a chat about the latest in **technology**, intriguing **mathematical concepts**, and **travel adventures**.  
-- 🤝 I’d love to connect and discuss how I can help in your journey or collaborate on projects where I can add value. I believe that **when we lift others, we improve together**.  
 
 <!---
 MariaNicosAlain/MariaNicosAlain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
