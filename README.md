@@ -1,17 +1,14 @@
 # ✨ Hi! I’m Maria Pasaylo ✨
+📫[Gmail](mnapasaylo+github@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/maria-pasaylo) | 📝[Google Scholar](https://scholar.google.com/citations?hl=en&user=-hOtu6EAAAAJ&view_op=list_works)
 
+---
 ## ⚡ Quick Facts
-- 💻 Experience across **front-end, back-end, ML, and research pipelines**.  
+- 💻 Experience across **front-end, back-end, ML, and research**.  
 - 🚀 Interested in **space** and **computational materials science**.  
 - 🌱 Currently building a **solar-powered car telemetry site** and doing research in **theoretical chemistry**.  
 - 💬 Always up for a chat about the latest in **technology**, intriguing **mathematical concepts**, and **travel adventures**.  
 - 🤝 I’d love to connect and discuss how I can help in your journey or collaborate on projects where I can add value. I believe that **when we lift others, we improve together**.  
-
-
-📫[Gmail](mnapasaylo+github@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/maria-pasaylo) | 📝[Google Scholar](https://scholar.google.com/citations?hl=en&user=-hOtu6EAAAAJ&view_op=list_works)
-
 ---
-
 ## 🔧 Tech Skills
 <p>
   <!-- Languages -->
@@ -40,7 +37,6 @@
 Google Workspace • Jira • Agile • Jupyter Notebooks • VS Code • Weights & Biases • Pandas • Tableau • IBM SPSS • OMERE  
 
 ---
-
 ## Featured Projects & Live Demos
 
 - **[🔬 Quantum AI for Climate](https://github.com/mariapasaylo/quantum-ai-for-climate)** | [🔗 Colab Link](https://colab.research.google.com/drive/1mSladZBswjXVaJz-yGJzyTS3AdmbjAKj?usp=sharing)   
@@ -60,7 +56,6 @@ Google Workspace • Jira • Agile • Jupyter Notebooks • VS Code • Weight
 
 - **[🏥 Urgent Care Coordinator](https://github.com/poetryofcode/HackPrinceton)** | [🔗 HackPrinceton Submission](https://dorahacks.io/buidl/19374)  
   Combines **machine learning + real-time data routing** to optimize urgent care recommendations.  
-
 ---
 
 
